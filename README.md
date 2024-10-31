@@ -1,9 +1,8 @@
 
 # RFID-LCD  
   
+ [![Raspberri Pi RFID LCD](https://img-storage-files.s3.eu-west-1.amazonaws.com/Capture+d%E2%80%99e%CC%81cran+2024-10-31+a%CC%80+17.31.45.png)](https://youtu.be/SFu8QFPjPXc "Raspberri Pi RFID LCD")
 
-[![Voir la vidéo]({https://img-storage-files.s3.eu-west-1.amazonaws.com/Capture+d%E2%80%99e%CC%81cran+2024-10-31+a%CC%80+17.31.45.png})]({https://img-storage-files.s3.eu-west-1.amazonaws.com/20241030_120836.mp4} "Voir la vidéo")
-  
 ## Table of Contents  
   
 1. [Matériel requis](#matériel-requis)  
